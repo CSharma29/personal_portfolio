@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15" border="50" scale="3" compressed="false" locked="false" version="28.0.7">
+  <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
+    <mxGraphModel dx="1977" dy="1487" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+      <root>
+        <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="CL-bjgYmt_80SJW6IR70-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;How we Go about deployment:&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;we already have the website ready we do some tweaks and then we publish the website that we have created using lovable AI. Once the initial paint is ready we will keep on updating and maintaining the website with the latest paint.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-77" y="111" width="539" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="CL-bjgYmt_80SJW6IR70-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CL-bjgYmt_80SJW6IR70-2" target="CL-bjgYmt_80SJW6IR70-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CL-bjgYmt_80SJW6IR70-2" value="Initial Development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="616.5" y="-31" width="373" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CL-bjgYmt_80SJW6IR70-3" value="Deployment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="616.5" y="252" width="380" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="CL-bjgYmt_80SJW6IR70-4" value="Testing Updates" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="616.5" y="384" width="380" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="CL-bjgYmt_80SJW6IR70-5" value="Make it Public" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="616.5" y="531" width="380" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="CL-bjgYmt_80SJW6IR70-6" value="Collect Feedback" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="616.5" y="669" width="380" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="CL-bjgYmt_80SJW6IR70-7" value="Deployable Product" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="616.5" y="103" width="373" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="CL-bjgYmt_80SJW6IR70-10" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="773" y="193" width="60" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="CL-bjgYmt_80SJW6IR70-11" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="774" y="331" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CL-bjgYmt_80SJW6IR70-12" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="776.5" y="466" width="60" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="CL-bjgYmt_80SJW6IR70-13" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="781" y="609" width="60" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="CL-bjgYmt_80SJW6IR70-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="403" width="172" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="CL-bjgYmt_80SJW6IR70-15" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="999" y="718" as="sourcePoint" />
+            <mxPoint x="1298" y="588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CL-bjgYmt_80SJW6IR70-16" value="Make Changes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1251.5" y="471" width="93" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="CL-bjgYmt_80SJW6IR70-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CL-bjgYmt_80SJW6IR70-14" target="CL-bjgYmt_80SJW6IR70-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1078" y="371" as="sourcePoint" />
+            <mxPoint x="1128" y="321" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1128" y="371" />
+              <mxPoint x="1503" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
