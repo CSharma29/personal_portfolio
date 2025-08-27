@@ -11,7 +11,7 @@ const App: React.FC = () => {
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
-          {/* Additional routes can be added here */}
+          <Route path="*" element={<div style={{color: 'orange', fontWeight: 'bold', fontSize: '2rem'}}>DEBUG: No route matched</div>} />
         </Routes>
       </div>
     </Router>

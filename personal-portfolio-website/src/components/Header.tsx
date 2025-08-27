@@ -2,16 +2,16 @@ import React from 'react';
 
 const Header: React.FC = () => {
     return (
-        <header>
-            <h1>My Portfolio</h1>
-            <nav>
-                <ul>
-                    <li><a href="#home">Home</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#projects">Projects</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                </ul>
-            </nav>
+        <header className="main-header">
+            <div className="header-content">
+                <span className="logo">Chirag Sharma</span>
+                <nav className="main-nav">
+                    <a href="#home">Home</a>
+                    <a href="#about">About</a>
+                    <a href="#projects">Projects</a>
+                    <a href="#contact">Contact</a>
+                </nav>
+            </div>
         </header>
     );
 };
