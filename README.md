@@ -1,2 +1,3 @@
 # personal_portfolio
-this would be my personal portfolio website
+
+The project will start with creation of the initial design part then we will expand further to create features
